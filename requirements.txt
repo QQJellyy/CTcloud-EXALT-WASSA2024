@@ -1,0 +1,10 @@
+datasets==2.13.1
+deepspeed==0.10.0
+nltk==3.8.1
+scikit-learn==1.4.2
+tensorboard==2.15.1
+tokenizers==0.14.1
+torch==2.0.1
+transformers==4.34.0
+transformers-interpret==0.10.0
+trl==0.7.2
